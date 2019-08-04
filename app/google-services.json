@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833889461434",
+    "firebase_url": "https://travelmaniac-a5555.firebaseio.com",
+    "project_id": "travelmaniac-a5555",
+    "storage_bucket": "travelmaniac-a5555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833889461434:android:932a6887b201a622",
+        "android_client_info": {
+          "package_name": "com.chidii.travelmaniac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833889461434-msf6bl9q252olngsgfk529g4954mt5ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chidii.travelmaniac",
+            "certificate_hash": "e519dae1e963a05a7aafe5a195c7b04dbbbd9f31"
+          }
+        },
+        {
+          "client_id": "833889461434-bqu1knhfm911mo9nu6hvft3tnp5c7b35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OcZ18-BdOh1c0I4SxOEY0DcN1civcTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833889461434-bqu1knhfm911mo9nu6hvft3tnp5c7b35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
